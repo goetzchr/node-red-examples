@@ -1,0 +1,1 @@
+[{"id":"f2b6d6c4.0d4928","type":"inject","name":"Test Nachricht","topic":"nodered/status","payload":"Hello World!","repeat":"","crontab":"","once":false,"x":425,"y":105,"wires":[["e3264a40.1cd9b8"]]},{"id":"e3264a40.1cd9b8","type":"debug","name":"","active":true,"complete":"true","x":684,"y":106,"wires":[]}]
